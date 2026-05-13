@@ -1,4 +1,9 @@
 # Google Maps Review Rating Prediction
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-cyan)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-purple)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![NLP](https://img.shields.io/badge/NLP-TextClassification-pink)
 
 > Comparative NLP and Machine Learning study for predicting Google Maps review ratings using classical ML, BiLSTMs, and transformer-based architectures.
 
