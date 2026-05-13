@@ -362,12 +362,11 @@ The results highlight the importance of context-aware representations in modern 
 ---
 
 ## Contributors
-
-| Name                      | Contribution                                   |
-| ------------------------- | ---------------------------------------------- |
-| Mohamed Hafeez            | EDA and Topic Modelling                        |
-| Mohamed Ihsan             | Text Processing and Feature Engineering        |
-| Sri Sai Vaishnavi Chintha | Predictive Modelling and Hyperparameter Tuning |
+        
+| ---------------------------------------------- |
+| [`Ihsan-Fazal`](https://github.com/Ihsan-Fazal)|
+| [`Vaishnavi-chintha`](https://github.com/Vaishnavi-chintha)|
+| [`Mohamed Hafeez`](https://github.com/mhd-hfz)|
 
 ---
 
